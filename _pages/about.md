@@ -3,7 +3,6 @@ title: about
 permalink: /about/
 layout: main
 order: 3
-author: Lancelot
 ---
 
 <h1>about Vom</h1>
@@ -25,5 +24,5 @@ If you want us to hear your music, email <a href="mailto:vommusicblog@gmail.com"
 
 <h3 style="color: yellow">More about Vom</h3>
 
-Vom Music Found is a co-production of <a href="https://www.instagram.com/meat_me_at_trons_plecos/">Teslah </a> and <a href="https://www.instagram.com/obrionspuboficial/">Patfork Media</a>. The site was founded in the summer of 2020 by Lancelot and Zach Balder. 
+Vom Music Found is a co-production of <a href="https://www.instagram.com/meat_me_at_trons_plecos/">Teslah </a> and <a href="https://www.instagram.com/obrionspuboficial/">Patfork Media</a>. The site was founded in the summer of 2020 by Lancelot and FunMan. 
 
