@@ -2,6 +2,7 @@
 title: "Vom co-founder Zach Balder talks with Vom Blog"
 layout: interview
 permalink: interviews/Vom-interview-1
+author: Vom Admin
 ---
 
 
