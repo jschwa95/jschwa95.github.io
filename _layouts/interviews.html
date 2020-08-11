@@ -11,16 +11,19 @@ layout: main
   {%- if site.interviews.size > 0 -%}
     <ul class="post-list">
       {%- for interview in site.interviews -%}
-      <li>
+      <li style="background-image: url({{ interview.image }});">
         {%- assign date_format = site.minema.date_format | default: "%b %-d, %Y" -%}
-        <!--<span class="post-meta">{{ interview.date | date: date_format }}</span>-->
+        <span class="post-meta">{{ interview.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ interview.url | relative_url }}">
             {{ interview.title | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ interview.excerpt }}
+          <!-- <img src="{{ interview.image }}" width="50", height="50"> -->
+          <br>
+         <p style="background-color: black">{{ interview.summary }}</p>
+         <br>
         {%- endif -%}
       </li>
       {%- endfor -%}

@@ -4,7 +4,7 @@ layout: review
 permalink: reviews/songs-i-like-1
 author: by Lancelot
 excerpt: including tracks Channel Tres, Denise T, Soda Stereo.
-date: July 10, 1954
+date: August 10, 2005
 ---
 
 
