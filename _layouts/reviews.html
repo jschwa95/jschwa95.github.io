@@ -14,22 +14,22 @@ layout: main
       {%- for review in site.reviews -%}
       <li>
         {%- assign date_format = site.minema.date_format | default: "%b %-d, %Y" -%}
-<!--         <span class="post-meta">{{ reviews.date | date: date_format }}</span>
- -->        <h3>
+        <!--<span class="post-meta">{{ reviews.date | date: date_format }}</span>-->
+        <h3>
           <a class="post-link" href="{{ review.url | relative_url }}">
             {{ review.title | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
         {{review.author}}
-         <div class="excerptsbaby">{{ review.excerpt }} </div>
-        
+         <div class="review-excerpt">{{ review.excerpt }} </div>
+
         {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
 
-  
+
   {%- endif -%}
 
 </div>
