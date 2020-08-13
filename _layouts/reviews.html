@@ -2,19 +2,22 @@
 layout: main
 ---
 
-
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-{{content}}
+
+  {{content}}
 
   {%- if site.reviews.size > 0 -%}
     <ul class="post-list">
-      {%- for review in site.reviews -%}
+      {%- assign reviews = site.reviews | sort: 'date' | reverse -%}
+      {%- for review in reviews -%}
       <li>
-        {%- assign date_format = site.minema.date_format | default: "%b %-d, %Y" -%}
-        <!--<span class="post-meta">{{ reviews.date | date: date_format }}</span>-->
+        <!--
+          {%- assign date_format = site.minema.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ reviews.date | date: date_format }}</span>
+        -->
         <h3>
           <a class="post-link" href="{{ review.url | relative_url }}">
             {{ review.title | escape }}
@@ -28,8 +31,5 @@ layout: main
       </li>
       {%- endfor -%}
     </ul>
-
-
   {%- endif -%}
-
 </div>
