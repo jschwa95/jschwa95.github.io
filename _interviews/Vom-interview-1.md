@@ -5,7 +5,7 @@ permalink: interviews/Vom-interview-1
 author: Vom Admin
 ---
 
-<img src="../assets/Zach-Pic-Vom.jpg" height="200px" width="200px">
+<img src="../assets/Zach-Pic-Vom.jpg" height="100px" width="100px">
 
 Vom: Hi Zach, what’s up?
 

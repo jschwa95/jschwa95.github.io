@@ -4,7 +4,7 @@ layout: review
 permalink: reviews/songs-i-like-1
 author: by Lancelot
 excerpt: including tracks Channel Tres, Denise T, Soda Stereo.
-date: July 10, 1954
+date: July 28, 2020
 ---
 
 
@@ -14,7 +14,7 @@ Hello Vom’ers! It’s me, Lancelot. Here is my semi-whenever round-up of songs
 <br>
 
 
-<div class="box"> 
+<div class="box">
 <h4> <i> Channel Tres - Weedman </i></h4>
 <br>
 <p> Channel “Put Some Sub In That Bitch” Tres has returned with an infectious marijuana-themed single. Well–ok I’ll come clean–it was released months ago, but this blog just started, and I want to write about it, so there. Sheldon Young, the solo artist behind Channel Tres, received praise in 2018 for his eponymous EP, which brought a west-coast spin to Detroit House. </p>
@@ -25,7 +25,7 @@ Hello Vom’ers! It’s me, Lancelot. Here is my semi-whenever round-up of songs
 <p>The single is a unique addition Channel's discography, that also shows off his flexibility as an M.C.
  Check out the music video by <a href="https://www.youtube.com/watch?v=4klQbrQeB7k"> clicking here.</a></p>
 <br clear="left">
-	
+
 </div>
 
 
