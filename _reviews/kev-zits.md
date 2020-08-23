@@ -4,6 +4,7 @@ layout: review
 permalink: /reviews/kevin-and-the-zits-album-review
 author: by FunMan
 excerpt: FunMan gives his thoughts on the latest EP by Kevin and the Zits.
+date: June 18, 2020
 ---
 
 

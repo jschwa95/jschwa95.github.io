@@ -1,0 +1,35 @@
+---
+layout: main
+---
+
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+{{content}}
+
+  {%- if site.features.size > 0 -%}
+    <ul class="post-list">
+      {%- for feature in site.features -%}
+      <li>
+        {%- assign date_format = site.minema.date_format | default: "%b %-d, %Y" -%}
+        <!--<span class="post-meta">{{ features.date | date: date_format }}</span>-->
+        <h3>
+          <a class="post-link" href="{{ feature.url | relative_url }}">
+            {{ feature.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+        {{feature.author}}
+         <div class="feature-excerpt">{{ feature.excerpt }} </div>
+
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+
+  {%- endif -%}
+
+</div>
