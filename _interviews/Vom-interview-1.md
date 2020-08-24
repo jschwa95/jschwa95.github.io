@@ -4,7 +4,7 @@ layout: interview
 permalink: interviews/Vom-interview-1
 author: Vom Admin
 image: ../assets/Zach-Pic-Vom.jpg
-summary: Zach Balder, a.k.a. Fun Man, regails our readers with the exciting tale of this lovely cyber spot.  
+summary: Zach Balder, a.k.a. Fun Man, regails our readers with the exciting tale of this lovely cyber spot.
 url: interviews/Vom-interview-1
 date: july 4, 1776
 ---
