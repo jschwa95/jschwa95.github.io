@@ -2,7 +2,7 @@
 title: "Vom co-founder Zach Balder talks with Vom Blog"
 layout: interview
 permalink: interviews/Vom-interview-1
-author: Vom Admin
+author: by Vom Admin
 image: ../assets/Zach-Pic-Vom.jpg
 summary: Zach Balder, a.k.a. Fun Man, regails our readers with the exciting tale of this lovely cyber spot.
 url: interviews/Vom-interview-1

@@ -2,7 +2,7 @@
 title: Vom Blog Dill Mix 01
 layout: feature
 permalink: features/denim-dill-mix-1
-author: DJ Denim Dill
+author: by DJ Denim Dill
 excerpt: Get whisked away to the wonderful world of drum + bass
 ---
 
