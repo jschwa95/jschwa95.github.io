@@ -19,11 +19,11 @@ And it was FAST, blisteringly so.
 
 It was also a sound relegated to particular clubs (that were often raided) and initially siloed from media portrayals of dance music for proposed “lawlessness” or whatever other coded language is used by the puritanical powers that be to “protect” society from unrest.
 
-This sort of thing wasn’t left in the 90’s either, in case you were wondering.
+This sort of thing <a href="https://www.independent.co.uk/arts-entertainment/music/features/form-696-police-uk-music-venues-grime-music-discrimination-comment-a7670436.html" style="color: yellow">wasn’t left in the 90’s either</a>, in case you were wondering.
 
 Even today there’s a certain righteous fury to d&b that feels at home in quar. It’s hard to describe, but I feel deep down that it differs from the nu metal-ian angst of big room EDM. It’s an anger that is both pointed and yet open-ended enough to be applied to the various and seemingly unending ills plaguing the world around us at all times.
 
-The kinds we can’t escape because there is no escape, you HAVE to stay inside right now.
+Its the kind we can’t escape because there is no escape; You HAVE to stay inside right now.
 
 Also, did I mention d&b is fast? This stuff is dizzyingly fun to listen to, and even more so to mix. Which is the point.
 
