@@ -4,7 +4,7 @@ layout: review
 permalink: reviews/songs-i-like-1
 author: by Lancelot
 excerpt: including tracks Channel Tres, Denise T, Soda Stereo.
-date: July 28, 2020
+date: July 10, 2020
 ---
 
 Hello Vom’ers! It’s me, Lancelot. Here is my semi-whenever round-up of songs I like.

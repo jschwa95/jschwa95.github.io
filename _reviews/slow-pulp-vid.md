@@ -23,7 +23,7 @@ order: 1
 <p>The film’s moving-collage animation brings a fever-dream twist to the early days of MTV’s music video catalogue. The viewer gets that same sense of floating or levitating through, a la Jeff Bridges in that classic Big Lebowski bowling dream sequence, featuring Kenny Rogers’ “I Just Dropped In (To See What Condition… etc.)”
 
 </p>
-<p>In one of my favorite sequences, the sun doubles as a yellow ball on a chain that swings in between Massey and the viewer’s face, as the sky quickly rises in the background like a sheet of paper. The producers, Powered By Wind, were keen to blend real and animated textures together into this trippy, engaging tapestry.
+<p>In one of my favorite sequences, the sun doubles as a yellow ball on a chain that swings in between Massey and the viewer’s face, as the sky quickly rises in the background like a sheet of paper. The producers, <a href="https://poweredbywind.info/">Powered By Wind</a>, were keen to blend real and animated textures together into this trippy, engaging tapestry.
 
 </p>
 <p>In a poignant scene, Massey searches for the final piece of a jigsaw puzzle, in a warbly house. Also, how did the animators get that shot of the puzzle piece from that underneath perspective? Powered By Wind, feel free to email me. I am so curious. </p>
