@@ -2,12 +2,14 @@
 layout: main
 ---
 
+
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "~~~~~~~~~~~~~~~" }}</h2>
@@ -31,4 +33,53 @@ layout: main
     <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
+</div>
+<hr>
+
+  {%- if site.features.size > 0 -%}
+    <ul class="post-list">
+      {%- for feature in site.features -%}
+      <li>
+        {%- assign date_format = site.minema.date_format | default: "%b %-d, %Y" -%}
+        <!--<span class="post-meta">{{ features.date | date: date_format }}</span>-->
+        <h3>
+          <a class="post-link" href="{{ feature.url | relative_url }}">
+            {{ feature.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+        {{feature.author}}
+         <div class="feature-excerpt">{{ feature.excerpt }} </div>
+
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+
+  {%- endif -%}
+
+ {%- if site.reviews.size > 0 -%}
+    <ul class="post-list">
+      {%- assign reviews = site.reviews | sort: 'date' | reverse -%}
+      {%- for review in reviews -%}
+      <li>
+        <!--
+          {%- assign date_format = site.minema.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ reviews.date | date: date_format }}</span>
+        -->
+        <h3>
+          <a class="post-link" href="{{ review.url | relative_url }}">
+            {{ review.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+        {{review.author}}
+         <div class="review-excerpt">{{ review.excerpt }} </div>
+
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
 </div>
