@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,20 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vom Blog 
-show_excerpts: true 
+title: Vom Blog
+show_excerpts: true
 email: vommusicblog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   All the news that's fit to vom; all the vom that's fit to print.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jschwa95
-collections: 
+twitter_username: blog_vom
+collections:
   interviews:
     output: true
     permalink: /interviews/:path/
   reviews:
-    output: true 
+    output: true
     permalink: /reviews/:path/
   features:
     output: true
