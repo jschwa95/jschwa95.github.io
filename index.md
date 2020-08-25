@@ -8,7 +8,7 @@ layout: customhome
 
 Music. We all listen to it.
 
-Some of us make it. 
+Some of us make it.
 
 Some of it is really good.
 All of it is vom.
