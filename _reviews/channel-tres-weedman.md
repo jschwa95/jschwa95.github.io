@@ -3,7 +3,7 @@ title: "Songs In Which Lancelot Enjoys (Volume 1)"
 layout: review
 permalink: reviews/songs-i-like-1
 author: by Lancelot
-excerpt: including tracks Channel Tres, Denise T, Soda Stereo.
+summary: including tracks Channel Tres, Denise T, Soda Stereo.
 date: July 10, 2020
 ---
 

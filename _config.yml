@@ -24,7 +24,8 @@ email: vommusicblog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   All the news that's fit to vom; all the vom that's fit to print.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vomblog.com"
+title_image: /assets/vomit_logo.png
 
 twitter_username: blog_vom
 collections:
