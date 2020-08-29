@@ -3,8 +3,9 @@ title: "Slow Pulp's new song/video is bonkers good"
 layout: review
 permalink: reviews/slow-pulp-vid-falling-apart
 author: by Lancelot
-excerpt: Slow Pulp is back and better than ever.
+summary: Slow Pulp is back and better than ever.
 date: August 13, 2020
+image: /assets/slowpulp.png
 order: 1
 ---
 
