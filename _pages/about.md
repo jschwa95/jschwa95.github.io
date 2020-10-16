@@ -1,7 +1,7 @@
 ---
 title: about
 permalink: /about/
-layout: main
+layout: default
 order: 3
 ---
 
@@ -15,7 +15,7 @@ Content will include interviews, reviews, premieres, features and probably some 
 
 We're always looking for writers. Email pitches to <a href="mailto:vommusicblog@gmail.com" style="color: red"> vommusicblog@gmail.com, </a> with the subject "vom pitch".
 
-If you want us to hear your music, email <a href="mailto:vommusicblog@gmail.com" style="color: red"> vommusicblog@gmail.com </a> with the subject "demo submission" and your artist name. 
+If you want us to hear your music, email <a href="mailto:vommusicblog@gmail.com" style="color: red"> vommusicblog@gmail.com </a> with the subject "demo submission" and your artist name.
 
 
 
@@ -24,5 +24,5 @@ If you want us to hear your music, email <a href="mailto:vommusicblog@gmail.com"
 
 <h3 style="color: yellow">More about Vom</h3>
 
-Vom Music Found is a co-production of <a href="https://www.instagram.com/meat_me_at_trons_plecos/">Teslah </a> and <a href="https://www.instagram.com/obrionspuboficial/">Patfork Media</a>. The site was founded in the summer of 2020 by Lancelot and FunMan. 
+Vom Music Found is a co-production of <a href="https://www.instagram.com/meat_me_at_trons_plecos/">Teslah </a> and <a href="https://www.instagram.com/obrionspuboficial/">Patfork Media</a>. The site was founded in the summer of 2020 by Lancelot and FunMan.
 
