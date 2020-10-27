@@ -9,13 +9,13 @@ date: October 16, 2020
 ---
 
 <h4 style="color: black"> <i>...in which alt music memelord Juulsexual sits down with Vom for an exclusive chat</i></h4>
-<p> If you are an active instagram user who has attended at least, say, a few basement shows in the last year, there is a very high chance you’ve seen a meme from the account <a href="https://www.instagram.com/juulsexual/">@juulsexual</a>. Since the page’s inception in 2018, it has become a mecca of alternative music commentary and humor, peaking at over 20,000 followers.
-The page began as @babysnotallright, cleverly referencing the popular Williamsburg music venue Baby’s All Right, eventually changing its name to @Juulsexual. The page has earned the attention of revered indie labels, including <a href="http://www.dbldblwhmmy.com/">Double Double Whammy</a>, <a href="https://www.explodinginsoundrecords.com/">Exploding in Sound</a> and <a href="https://www.polyvinylrecords.com/">Polyvinyl</a>, who will sometimes comment on the posts and reshare content. </p>
+<p> If you are an active instagram user who has attended at least, say, a few basement shows in the last year, there is a very high chance you’ve seen a meme from the account <a style="color: yellow" href="https://www.instagram.com/juulsexual/">@juulsexual</a>. Since the page’s inception in 2018, it has become a mecca of alternative music commentary and humor, peaking at over 20,000 followers.
+The page began as @babysnotallright, cleverly referencing the popular Williamsburg music venue <a style="color: yellow" href="http://babysallright.com/"> Baby’s All Right</a>, eventually changing its name to @Juulsexual. The page has earned the attention of revered indie labels, including <a style="color: yellow" href="http://www.dbldblwhmmy.com/">Double Double Whammy</a>, <a style="color: yellow" href="https://www.explodinginsoundrecords.com/">Exploding in Sound</a> and <a style="color: yellow" href="https://www.polyvinylrecords.com/">Polyvinyl</a>, who will sometimes comment on the posts and reshare content. </p>
 <img src="../assets/juul.jpg" align="left" height="300px" width="300px" class="pic">
 <p> The content often humorously pulls the rug out from under the sometimes-problematic scene of which it parodies, causing followers to face uncomfortable truths about the DIY bubble, such as: musicians are not ideal daters, label rosters are often not diverse enough, and the hit--“you won’t find love at the gig.”</p>
 <p> A cult-of-personality exists around the page’s lone author, Sarah, whose pixie cut has been immortalized on stickers and shirts. She is exceedingly kind and communicative with her fanbase, who have not always returned the favor in the past; the angry/horny (‘horngry’) men of  indie rock are no strangers to the page, and have often taken advantage of its open DMs to lash out at the content creator. Other followers, however, have been more supportive, buying merch in order to support Sarah’s numerous medical operations and recoveries.</p>
-<p>During the summer of 2020, the original Juulsexual page was replatformed and given to <a href="https://www.instagram.com/blackgirlcommune/">Black Girl Commune</a>, a Seattle-based collective of black womxn and femmes. The collective is dedicated to educating its community on anti-capitalism and anti-racism, and providing a space for black womxn and femmes.</p>
-<p>I virtually sat down with Sarah, the actual real-life person behind the insta. At the time, Sarah was visiting a close friend Ian, drummer of the Albany band <a href="https://hateclubalbany.bandcamp.com/"> Hate Club</a>. Together, we discussed her decision to replatform, her life as an educator during the pandemic, and her experience with her sometimes polemical fanbase, amongst other topics and general banter.</p>
+<p>During the summer of 2020, the original Juulsexual page was replatformed and given to <a style="color: yellow" href="https://www.instagram.com/blackgirlcommune/">Black Girl Commune</a>, a Seattle-based collective of black womxn and femmes. The collective is dedicated to educating its community on anti-capitalism and anti-racism, and providing a space for black womxn and femmes.</p>
+<p>I virtually sat down with Sarah, the actual real-life person behind the insta. At the time, Sarah was visiting a close friend Ian, drummer of the Albany band <a style="color: yellow" href="https://hateclubalbany.bandcamp.com/"> Hate Club</a>. Together, we discussed her decision to replatform, her life as an educator during the pandemic, and her experience with her sometimes polemical fanbase, amongst other topics and general banter.</p>
 
 
 <hr>
@@ -56,7 +56,7 @@ J: or who like yelled, “Oh my god, that’s Juulsexual!” It’s always nice.
 
 I’m just kind of in it making content. And also, getting a certain degree of backlash from scrawny white dudes who clearly only listen to Oneohtrix. And I love Oneohtrix, don’t get me wrong, but I’m just painting a picture here.
 
-<b>L: <a href="https://www.youtube.com/watch?v=rUshMsNq2I0"> Oneohtrix</a>, if you’re reading this, please don’t be offended.</b>
+<b>L: <a style="color: yellow" href="https://www.youtube.com/watch?v=rUshMsNq2I0"> Oneohtrix</a>, if you’re reading this, please don’t be offended.</b>
 
 J: It’s definitely a type of kid in my DMs who wants to upset me or thinks because the content of the page is humor, that they can, like, take things too far in offending me. There are a lot of people who like what I do, and think that certain things that I’ve said that have circulated have been important in fostering amenable social spaces at gigs and at shows, and even just out about with people who consider themselves “alternative”, or anything of any sort of subcultural awareness. For whatever reason people think that these memes have said some important things and I’m always very flattered by that. There have been a couple of instances where I’ve been recognized in public, and I was nothing but flattered. I think that has to do with the haircut more than anything else.
 
@@ -66,13 +66,13 @@ J: It was a total accident too. I did not want my hair to look like this, but I 
 
 <b>L: Oh yeah, of course.. Who made those?</b>
 
-J: The T-shirts were made by my friend Dave at <a href="https://www.emulsionprinthouse.com/">Emulsion Print House,</a> which is based out of Boston. Dave’s in a band called <a href="https://helenor.bandcamp.com/">Helenor</a>. They’re really good, really groovy live. I only saw them play live once before the world shut down unfortunately, because Dave and I were kind of late friends. He kind of heard about my medical situation, and knew I needed to raise money for these reparative surgeries over the last month, and he stepped in and was like ‘I would love to offer my print house and my print services to make a t-shirt together, and hopefully make a good chunk of change for it’, and we made enough for me to feel comfortable going into my first operation. It was really really sweet on his part.
+J: The T-shirts were made by my friend Dave at <a style="color: yellow" href="https://www.emulsionprinthouse.com/">Emulsion Print House,</a> which is based out of Boston. Dave’s in a band called <a style="color: yellow" href="https://helenor.bandcamp.com/">Helenor</a>. They’re really good, really groovy live. I only saw them play live once before the world shut down unfortunately, because Dave and I were kind of late friends. He kind of heard about my medical situation, and knew I needed to raise money for these reparative surgeries over the last month, and he stepped in and was like ‘I would love to offer my print house and my print services to make a t-shirt together, and hopefully make a good chunk of change for it’, and we made enough for me to feel comfortable going into my first operation. It was really really sweet on his part.
 
 <b>L: Have you done other interviews?</b>
 
 J: I’ve only ever done one interview as “juulsexual” or whatever. A kid who followed me was doing a radio show? Basically, he called me while I was on the road with friends of mine, on my way to Portland. They asked me if I actually like the music I talk about, which is cool, that somebody asked me that point blank. Because the honest answer is, if you asked me to name a single Alex G song right now… I think there is one named after me, and that is the only one I’d be able to name. Well… it’s not me specifically, but it has my name.
 
-<b>L: I was about to ask… like “Oh… is <a href="https://www.youtube.com/watch?v=wQSxzUvQY7k">‘Sarah’</a> about you? Tell me more.”</b>
+<b>L: I was about to ask… like “Oh… is <a style="color: yellow" href="https://www.youtube.com/watch?v=wQSxzUvQY7k">‘Sarah’</a> about you? Tell me more.”</b>
 
 J: Yeah that’s a little juicy right? Let’s start that rumor.
 
@@ -90,9 +90,9 @@ J: Yeah, he’ll be playing stadiums for a long time.
 
 <b>L: I’m a big fan, but I totally get that. If there’s a big cult of personality for an artist, it can totally be a turnoff.</b>
 
-J: Here’s the thing, I did that with <a href="https://www.youtube.com/watch?v=p9JIIP5ZkIU">Girlpool</a> for a really long time. It took me a really long time to actively listen to Girlpool, and I love them. I really do, but I entered college, and the first four or five people that I really got close with were so so obsessed that it just felt that it was kind of untouchable for me, because I didn’t come in obsessed with the thing.
+J: Here’s the thing, I did that with <a style="color: yellow" href="https://www.youtube.com/watch?v=p9JIIP5ZkIU">Girlpool</a> for a really long time. It took me a really long time to actively listen to Girlpool, and I love them. I really do, but I entered college, and the first four or five people that I really got close with were so so obsessed that it just felt that it was kind of untouchable for me, because I didn’t come in obsessed with the thing.
 
-<i> At this point Sarah told me about a band called <a href="https://www.youtube.com/watch?v=R_3u7aspmDY">Mew</a>, and I thought she was saying Neu, and when I went to google it, Northeastern University came up, which was very confusing. </i>
+<i> At this point Sarah told me about a band called <a style="color: yellow" href="https://www.youtube.com/watch?v=R_3u7aspmDY">Mew</a>, and I thought she was saying Neu, and when I went to google it, Northeastern University came up, which was very confusing. </i>
 
 J: I have so many associations with songs from that band. I don’t know if you’ve ever heard a band do something with a chord progression or a vocal progression that sticks in your mind as really emotionally impactful, but they do that in almost every song.
 
@@ -128,7 +128,7 @@ The thing is, I love working. I’ve just been having a really hard time redirec
 
 <i> Editors note: At this point, Sarah and Ian consider going to Rochester to visit some friends. </i>
 
-J: I’ve gotta get up there to visit my friends in <a href="https://fullbody.bandcamp.com/">Full Body</a>, that I haven’t seen in a long time.They’re really good. I accidentally ended up at the <a href="https://www.youtube.com/watch?v=GhHwuPNA-j4">Jesus Lizard</a> New Year’s show with them in New York, and I didn’t know they were gonna be there and it was the last time I saw them. It was a weird sort of constellation of a bunch of people that I knew, and part of that was the entire band Full Body.
+J: I’ve gotta get up there to visit my friends in <a style="color: yellow" href="https://fullbody.bandcamp.com/">Full Body</a>, that I haven’t seen in a long time.They’re really good. I accidentally ended up at the <a style="color: yellow" href="https://www.youtube.com/watch?v=GhHwuPNA-j4">Jesus Lizard</a> New Year’s show with them in New York, and I didn’t know they were gonna be there and it was the last time I saw them. It was a weird sort of constellation of a bunch of people that I knew, and part of that was the entire band Full Body.
 
 <b>L: I miss that, going to shows and even if it’s not crowded, having a bunch of random people that you kind of know from different places there.</b>
 
@@ -168,7 +168,7 @@ The decision was easy. I wasn’t sure if I’d be able to use the “juulsexual
 
 <b>L: Is there any music that you want to plug?</b>
 
-J: Definitely Hate Club, <a href="https://dollyspartans.bandcamp.com/"></a> Dolly Spartans, (Michael has been an incredible friend and resource as of late. They had a song on Guitar Hero I think.) Full Body, shouts out Rochester crew. <a href="https://www.youtube.com/watch?v=HdQ2L4Yiaqs">Ghost Piss</a>.. <a href="https://deadtoothbk.bandcamp.com/">Dead Tooth</a>. <a href="https://saintseanhenry.bandcamp.com/album/a-jump-from-the-high-dive">Sean Henry</a> has been really supportive of me. Steve Hartlett.. I love him and if he decides to do anything else or decides not to. My friend Boner from Ovlov is starting a band called <a href="https://sinceraband.bandcamp.com/album/high-cuts-hidden-corners">Sincera</a> with a couple of other New Haven Locals, so you know, check out their stuff-- if it exists.
+J: Definitely Hate Club, <a style="color: yellow" href="https://dollyspartans.bandcamp.com/"></a> Dolly Spartans, (Michael has been an incredible friend and resource as of late. They had a song on Guitar Hero I think.) Full Body, shouts out Rochester crew. <a style="color: yellow" href="https://www.youtube.com/watch?v=HdQ2L4Yiaqs">Ghost Piss</a>.. <a style="color: yellow" href="https://deadtoothbk.bandcamp.com/">Dead Tooth</a>. <a style="color: yellow" href="https://saintseanhenry.bandcamp.com/album/a-jump-from-the-high-dive">Sean Henry</a> has been really supportive of me. Steve Hartlett.. I love him and if he decides to do anything else or decides not to. My friend Boner from Ovlov is starting a band called <a style="color: yellow" href="https://sinceraband.bandcamp.com/album/high-cuts-hidden-corners">Sincera</a> with a couple of other New Haven Locals, so you know, check out their stuff-- if it exists.
 
 <b>L: How do you know all the good musicians? You know everyone it seems like.</b>
 
