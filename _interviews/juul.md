@@ -3,7 +3,7 @@ title: "Beyond the Memes: Juulsexual IRL"
 layout: interview
 permalink: interviews/juul-interview
 author: by Lancelot
-image: ../assets/juul.jpg
+image: /assets/juul.jpg
 summary: ...in which indie music memelord Juulsexual sits down with Vom Blog for an exclusive chat
 date: October 16, 2020
 ---
